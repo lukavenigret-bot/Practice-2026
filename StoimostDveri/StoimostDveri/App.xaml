@@ -5,57 +5,30 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
 
-        <!-- ========================================================= -->
-        <!-- 1. ОСНОВНЫЕ ЦВЕТА (Элегантный бордовый)                    -->
-        <!-- ========================================================= -->
 
-        <!-- Основные цвета бренда -->
         <SolidColorBrush x:Key="PrimaryColor" Color="#4A0E1B"/>
-        <!-- Бордовый -->
         <SolidColorBrush x:Key="PrimaryLightColor" Color="#6B1A2D"/>
-        <!-- Светлый бордовый -->
         <SolidColorBrush x:Key="PrimaryDarkColor" Color="#2D0810"/>
-        <!-- Тёмный бордовый -->
         <SolidColorBrush x:Key="AccentColor" Color="#C62828"/>
-        <!-- Ярко-красный акцент -->
         <SolidColorBrush x:Key="GoldColor" Color="#C9A74C"/>
-        <!-- Золотой акцент -->
         <SolidColorBrush x:Key="GoldLightColor" Color="#D4B96A"/>
-        <!-- Светлое золото -->
 
-        <!-- Фоновые цвета -->
         <SolidColorBrush x:Key="BackgroundColor" Color="#FDF2F4"/>
-        <!-- Нежно-розовый фон -->
         <SolidColorBrush x:Key="CardBackgroundColor" Color="#FFFFFF"/>
-        <!-- Белый для карточек -->
         <SolidColorBrush x:Key="HoverBackgroundColor" Color="#FFF5F7"/>
-        <!-- Светлый при наведении -->
 
-        <!-- Цвета текста -->
         <SolidColorBrush x:Key="TextPrimaryColor" Color="#2D0810"/>
-        <!-- Тёмно-бордовый -->
         <SolidColorBrush x:Key="TextSecondaryColor" Color="#7A4A5A"/>
-        <!-- Приглушённый бордовый -->
         <SolidColorBrush x:Key="TextLightColor" Color="#FDF2F4"/>
-        <!-- Светлый текст -->
         <SolidColorBrush x:Key="TextWhiteColor" Color="#FFFFFF"/>
-        <!-- Белый текст -->
 
-        <!-- Цвета границ и рамок -->
         <SolidColorBrush x:Key="BorderColor" Color="#E8C8D0"/>
-        <!-- Светло-розовая рамка -->
         <SolidColorBrush x:Key="BorderDarkColor" Color="#C9A7B0"/>
-        <!-- Тёмная рамка -->
 
-        <!-- Цвета для статусов -->
         <SolidColorBrush x:Key="SuccessColor" Color="#2E7D32"/>
-        <!-- Зелёный (успех) -->
         <SolidColorBrush x:Key="ErrorColor" Color="#C62828"/>
-        <!-- Красный (ошибка) -->
         <SolidColorBrush x:Key="WarningColor" Color="#E85D04"/>
-        <!-- Оранжевый (предупреждение) -->
 
-        <!-- Цвета для кнопок -->
         <LinearGradientBrush x:Key="ButtonGradient" EndPoint="1,0.5" StartPoint="0,0.5">
             <GradientStop Color="#4A0E1B" Offset="0"/>
             <GradientStop Color="#6B1A2D" Offset="1"/>
@@ -71,31 +44,24 @@
             <GradientStop Color="#4A0E1B" Offset="1"/>
         </LinearGradientBrush>
 
-        <!-- Градиент для заголовка -->
         <LinearGradientBrush x:Key="HeaderGradient" EndPoint="1,0" StartPoint="0,0">
             <GradientStop Color="#2D0810" Offset="0"/>
             <GradientStop Color="#4A0E1B" Offset="0.5"/>
             <GradientStop Color="#6B1A2D" Offset="1"/>
         </LinearGradientBrush>
 
-        <!-- Градиент для итоговой цены -->
         <LinearGradientBrush x:Key="PriceGradient" EndPoint="1,0.5" StartPoint="0,0.5">
             <GradientStop Color="#4A0E1B" Offset="0"/>
             <GradientStop Color="#C62828" Offset="1"/>
         </LinearGradientBrush>
 
 
-        <!-- ========================================================= -->
-        <!-- 2. СТИЛИ ЭЛЕМЕНТОВ УПРАВЛЕНИЯ                              -->
-        <!-- ========================================================= -->
 
-        <!-- 2.1 Стиль для окон -->
         <Style TargetType="Window">
             <Setter Property="Background" Value="{StaticResource BackgroundColor}"/>
             <Setter Property="FontFamily" Value="Segoe UI, Arial, sans-serif"/>
         </Style>
 
-        <!-- 2.2 Стиль для заголовков секций -->
         <Style x:Key="SectionHeaderStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="14"/>
             <Setter Property="FontWeight" Value="Bold"/>
@@ -103,7 +69,6 @@
             <Setter Property="Margin" Value="0,8,0,4"/>
         </Style>
 
-        <!-- 2.3 Стиль для текстовых полей ввода -->
         <Style TargetType="TextBox">
             <Setter Property="FontSize" Value="14"/>
             <Setter Property="Height" Value="32"/>
@@ -125,7 +90,6 @@
             </Style.Triggers>
         </Style>
 
-        <!-- 2.4 Стиль для ComboBox -->
         <Style TargetType="ComboBox">
             <Setter Property="FontSize" Value="13"/>
             <Setter Property="Height" Value="32"/>
@@ -145,7 +109,6 @@
             </Style.Triggers>
         </Style>
 
-        <!-- 2.5 Стиль для кнопок -->
         <Style TargetType="Button">
             <Setter Property="FontSize" Value="14"/>
             <Setter Property="Height" Value="42"/>
@@ -166,7 +129,6 @@
             </Style.Triggers>
         </Style>
 
-        <!-- 2.5.1 Стиль для кнопки "Очистить" (светлая) -->
         <Style x:Key="ClearButtonStyle" TargetType="Button">
             <Setter Property="FontSize" Value="14"/>
             <Setter Property="Height" Value="42"/>
@@ -187,24 +149,20 @@
             </Style.Triggers>
         </Style>
 
-        <!-- 2.6 Стиль для меток результатов -->
         <Style x:Key="ResultLabelStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="14"/>
             <Setter Property="Foreground" Value="{StaticResource TextPrimaryColor}"/>
             <Setter Property="Margin" Value="2"/>
         </Style>
 
-        <!-- 2.7 Стиль для статус-бара -->
         <Style TargetType="StatusBar">
             <Setter Property="Background" Value="Transparent"/>
         </Style>
 
-        <!-- 2.8 Стиль для текста статуса -->
         <Style TargetType="StatusBarItem">
             <Setter Property="Foreground" Value="{StaticResource TextSecondaryColor}"/>
         </Style>
 
-        <!-- 2.9 Стиль для блоков-карточек -->
         <Style x:Key="CardStyle" TargetType="Border">
             <Setter Property="Background" Value="{StaticResource CardBackgroundColor}"/>
             <Setter Property="CornerRadius" Value="8"/>
@@ -219,7 +177,6 @@
             </Setter>
         </Style>
 
-        <!-- 2.10 Стиль для блока результатов (с золотой рамкой) -->
         <Style x:Key="ResultCardStyle" TargetType="Border">
             <Setter Property="Background" Value="{StaticResource CardBackgroundColor}"/>
             <Setter Property="CornerRadius" Value="8"/>

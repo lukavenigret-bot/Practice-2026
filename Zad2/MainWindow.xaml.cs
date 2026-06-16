@@ -19,19 +19,15 @@ namespace Zad2
         public MainWindow()
         {
             InitializeComponent();
-            // Подписка на события (можно делать в XAML, но можно и в коде)
             btnGreet.Click += BtnGreet_Click;
 
-            // Дополнительные события для демонстрации
             txtName.KeyDown += TxtName_KeyDown;
             txtName.GotFocus += TxtName_GotFocus;
             txtName.LostFocus += TxtName_LostFocus;
 
-            // Событие загрузки окна
             this.Loaded += MainWindow_Loaded;
         }
 
-        // Событие при нажатии на кнопку
         private void BtnGreet_Click(object sender, RoutedEventArgs e)
         {
             string name = txtName.Text.Trim();
@@ -46,12 +42,10 @@ namespace Zad2
                 lblResult.Text = $"Привет, {name}! Добро пожаловать в WPF!";
                 lblResult.Foreground = new SolidColorBrush(Colors.Green);
 
-                // Дополнительная реакция: меняем текст кнопки
                 btnGreet.Content = "Ещё раз?";
             }
         }
 
-        // Событие при нажатии Enter в текстовом поле
         private void TxtName_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Enter)
@@ -60,7 +54,6 @@ namespace Zad2
             }
         }
 
-        // Событие при фокусе на текстовом поле
         private void TxtName_GotFocus(object sender, RoutedEventArgs e)
         {
             txtName.Background = new SolidColorBrush(Colors.LightYellow);
@@ -71,13 +64,11 @@ namespace Zad2
             }
         }
 
-        // Событие при потере фокуса
         private void TxtName_LostFocus(object sender, RoutedEventArgs e)
         {
             txtName.Background = new SolidColorBrush(Colors.White);
         }
 
-        // Событие при загрузке окна
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
             txtName.Focus();

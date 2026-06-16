@@ -17,7 +17,6 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- Заголовок -->
         <TextBlock Grid.Row="0" 
                    Text="Добро пожаловать!" 
                    FontSize="20" 
@@ -25,7 +24,6 @@
                    HorizontalAlignment="Center"
                    Margin="0,0,0,20"/>
 
-        <!-- Поле для ввода имени -->
         <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,5">
             <TextBlock Text="Ваше имя: " 
                        VerticalAlignment="Center"
@@ -37,7 +35,6 @@
                      ToolTip="Введите ваше имя"/>
         </StackPanel>
 
-        <!-- Кнопка -->
         <Button x:Name="btnGreet" 
                 Grid.Row="2"
                 Content="Сказать привет" 
@@ -47,7 +44,6 @@
                 Margin="0,15,0,10"
                 HorizontalAlignment="Center"/>
 
-        <!-- Метка для вывода результата -->
         <Border Grid.Row="3" 
                 Background="LightYellow" 
                 CornerRadius="5" 

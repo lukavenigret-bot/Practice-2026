@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoimostDveri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23bf98055cb507f368958a8ab343f3a575180a28")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoimostDveri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoimostDveri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
