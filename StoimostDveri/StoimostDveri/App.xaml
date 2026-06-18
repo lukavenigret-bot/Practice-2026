@@ -4,8 +4,6 @@
              xmlns:local="clr-namespace:StoimostDveri"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-
-
         <SolidColorBrush x:Key="PrimaryColor" Color="#4A0E1B"/>
         <SolidColorBrush x:Key="PrimaryLightColor" Color="#6B1A2D"/>
         <SolidColorBrush x:Key="PrimaryDarkColor" Color="#2D0810"/>

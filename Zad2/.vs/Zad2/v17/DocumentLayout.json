@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 371,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T17:42:00.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T17:42:00.664Z"
             }
           ]
         }
