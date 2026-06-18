@@ -21,3 +21,27 @@ C:\Users\Yulya\source\repos\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows
 C:\Users\Yulya\source\repos\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\Images\background.jpg.jpg
 C:\Users\Yulya\source\repos\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri_Content.g.cs
 C:\Users\Yulya\source\repos\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\App.baml
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\StoimostDveri.exe
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\Images\background.jpg.jpg
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\StoimostDveri.deps.json
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\StoimostDveri.runtimeconfig.json
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\StoimostDveri.dll
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\bin\Debug\net9.0-windows\StoimostDveri.pdb
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri_Content.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri_MarkupCompile.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri_MarkupCompile.lref
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\App.baml
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.g.resources
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.AssemblyInfoInputs.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.AssemblyInfo.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.sourcelink.json
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.dll
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\refint\StoimostDveri.dll
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.pdb
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\StoimostDveri.genruntimeconfig.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\StoimostDveri\StoimostDveri\obj\Debug\net9.0-windows\ref\StoimostDveri.dll

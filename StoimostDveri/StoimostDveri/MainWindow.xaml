@@ -53,7 +53,7 @@
 
                 <Border Style="{StaticResource CardStyle}" Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush ImageSource="/Снимок экрана 2026-06-16 185350.png" Opacity="0.7"/>
+                        <ImageBrush ImageSource="/Images/Снимок экрана 2026-06-16 185350.png" Opacity="0.7"/>
                     </Border.Background>
                     <StackPanel>
                         <TextBlock Text="1. Выбор модели" Style="{StaticResource SectionHeaderStyle}"/>
@@ -70,7 +70,7 @@
 
                 <Border Style="{StaticResource CardStyle}" Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush ImageSource="/Снимок экрана 2026-06-16 185350.png" Opacity="0.7"/>
+                        <ImageBrush ImageSource="/Images/Снимок экрана 2026-06-16 185350.png" Opacity="0.7"/>
                     </Border.Background>
                     <StackPanel>
                         <TextBlock Text="2. Размеры дверного проёма" Style="{StaticResource SectionHeaderStyle}"/>
@@ -91,7 +91,7 @@
 
                 <Border Style="{StaticResource CardStyle}" Margin="0,0,0,15">
                     <Border.Background>
-                        <ImageBrush Stretch="Fill" ImageSource="/Снимок экрана 2026-06-16 185350.png" TileMode="Tile" Opacity="0.7"/>
+                        <ImageBrush Stretch="Fill" ImageSource="/Images/Снимок экрана 2026-06-16 185350.png" TileMode="Tile" Opacity="0.7"/>
                     </Border.Background>
                     <StackPanel>
                         <TextBlock Text="3. Сложность отделки" Style="{StaticResource SectionHeaderStyle}"/>
@@ -117,7 +117,7 @@
             <Border Grid.Column="1" VerticalAlignment="Center" Style="{StaticResource ResultCardStyle}" 
                     Margin="15,0,0,0" Height="270">
                 <Border.Background>
-                    <ImageBrush ImageSource="/Снимок экрана 2026-06-16 185350.png" Opacity="0.7"/>
+                    <ImageBrush ImageSource="/Images/Снимок экрана 2026-06-16 185350.png" Opacity="0.7"/>
                 </Border.Background>
                 <StackPanel>
                     <TextBlock Text="📋 РЕЗУЛЬТАТЫ РАСЧЁТА" 

@@ -1,0 +1,335 @@
+﻿<Window x:Class="DoorLoop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoorLoop"
+        mc:Ignorable="d"
+        Title="Расчёт партии дверей - ZaDoor" 
+        Height="771" 
+        Width="1324"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/background.jpg.jpg" 
+                    Stretch="UniformToFill" 
+                    Opacity="0.8"/>
+    </Window.Background>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" 
+                CornerRadius="10" 
+                Padding="15" 
+                Margin="0,0,0,15"
+                Background="{StaticResource HeaderGradient}">
+            <StackPanel>
+                <TextBlock Text="🚪 Расчёт партии дверей" 
+                           FontSize="24" 
+                           FontWeight="Bold"
+                           Foreground="{StaticResource TextWhiteColor}"
+                           HorizontalAlignment="Center"/>
+                <TextBlock x:Name="lblSeasonalStatus"
+                           Text="ООО ZaDoor — Циклический расчёт" 
+                           FontSize="14" 
+                           Foreground="{StaticResource GoldLightColor}"
+                           HorizontalAlignment="Center"
+                           Margin="0,2,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.1*"/>
+                <ColumnDefinition Width="0.9*"/>
+                <ColumnDefinition Width="1.2*"/>
+            </Grid.ColumnDefinitions>
+
+            <ScrollViewer Grid.Column="0" 
+                          VerticalScrollBarVisibility="Auto" 
+                          HorizontalScrollBarVisibility="Disabled"
+                          Background="Transparent"
+                          BorderThickness="0"
+                          Margin="0,0,15,0">
+
+                <StackPanel>
+
+                    <TextBlock Text="📝 ДОБАВЛЕНИЕ ДВЕРИ" 
+                               FontSize="16" 
+                               FontWeight="Bold" 
+                               Foreground="{StaticResource TextPrimaryColor}"
+                               HorizontalAlignment="Center"
+                               Margin="0,0,0,10"/>
+
+                    <Border Style="{StaticResource CardStyle}">
+                        <StackPanel>
+                            <TextBlock Text="Модель:" FontWeight="Bold" FontSize="13"/>
+                            <ComboBox x:Name="cmbModel" Width="200" SelectedIndex="0" HorizontalAlignment="Left">
+                                <ComboBoxItem Content="Стандартная (Classic)" Tag="15000"/>
+                                <ComboBoxItem Content="Премиум (Premium)" Tag="25000"/>
+                                <ComboBoxItem Content="Эксклюзив (Exclusive)" Tag="40000"/>
+                            </ComboBox>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Style="{StaticResource CardStyle}">
+                        <StackPanel>
+                            <TextBlock Text="Размеры проёма:" FontWeight="Bold" FontSize="13"/>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                <TextBlock Text="Ширина (мм):" Width="100" FontSize="13" VerticalAlignment="Center"/>
+                                <TextBox x:Name="txtWidth" Width="100" Text="800" TextAlignment="Right"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                <TextBlock Text="Высота (мм):" Width="100" FontSize="13" VerticalAlignment="Center"/>
+                                <TextBox x:Name="txtHeight" Width="100" Text="2000" TextAlignment="Right"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Style="{StaticResource CardStyle}">
+                        <StackPanel>
+                            <TextBlock Text="Отделка:" FontWeight="Bold" FontSize="13"/>
+                            <ComboBox x:Name="cmbFinish" Width="200" SelectedIndex="0" HorizontalAlignment="Left">
+                                <ComboBoxItem Content="Простая (1.0)" Tag="1.0"/>
+                                <ComboBoxItem Content="Средняя (1.15)" Tag="1.15"/>
+                                <ComboBoxItem Content="Сложная (1.3)" Tag="1.3"/>
+                                <ComboBoxItem Content="Эксклюзивная (1.5)" Tag="1.5"/>
+                            </ComboBox>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Style="{StaticResource CardStyle}">
+                        <StackPanel>
+                            <TextBlock Text="Скидки:" FontWeight="Bold" FontSize="13"/>
+                            <CheckBox x:Name="chkLoyaltyCard" Content="Карта лояльности (5%)" Margin="0,5,0,0"/>
+                            <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                                <TextBlock Text="Количество:" VerticalAlignment="Center" FontSize="13"/>
+                                <ComboBox x:Name="cmbQuantity" Width="80" SelectedIndex="0" Margin="5,0">
+                                    <ComboBoxItem Content="1" Tag="1"/>
+                                    <ComboBoxItem Content="2" Tag="2"/>
+                                    <ComboBoxItem Content="3" Tag="3"/>
+                                    <ComboBoxItem Content="4" Tag="4"/>
+                                    <ComboBoxItem Content="5+" Tag="5"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <Border Background="#E6FFF3E0" CornerRadius="4" Padding="8" Margin="0,8,0,0">
+                                <TextBlock x:Name="lblSeasonalInfo" 
+                                           Text="🌞 Летняя распродажа: скидка 7% (АКТИВНА в июне)" 
+                                           FontSize="11"
+                                           Foreground="#E65100"
+                                           TextWrapping="Wrap"/>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5">
+                        <Button x:Name="btnAddFor" Content="➕ Добавить (for)" Width="140" Click="BtnAddFor_Click"/>
+                        <Button x:Name="btnAddWhile" Content="🔄 Добавить (while)" Width="140" Click="BtnAddWhile_Click"/>
+                    </StackPanel>
+
+                    <Border Style="{StaticResource CardStyle}" Margin="0,5,0,0">
+                        <StackPanel>
+                            <TextBlock Text="Автоматическое добавление:" FontWeight="Bold" FontSize="13"/>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                <TextBlock Text="Количество:" VerticalAlignment="Center" FontSize="13"/>
+                                <TextBox x:Name="txtCount" Width="60" Text="3" TextAlignment="Center" Margin="5,0"/>
+                                <Button x:Name="btnAutoAdd" Content="🚀 Добавить" 
+                                        Width="100" Height="35" FontSize="12"
+                                        Click="BtnAutoAdd_Click"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                    <Rectangle Height="10" Fill="Transparent"/>
+                </StackPanel>
+            </ScrollViewer>
+
+            <Border Grid.Column="1" Style="{StaticResource CardStyle}" 
+                    Margin="0,0,15,0">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+                        <TextBlock Text="📋 СПИСОК ДВЕРЕЙ" 
+                                   FontSize="15" 
+                                   FontWeight="Bold" 
+                                   Foreground="{StaticResource TextPrimaryColor}"/>
+                        <TextBlock x:Name="lblCount" 
+                                   Text="(0)" 
+                                   FontSize="13" 
+                                   Foreground="{StaticResource TextSecondaryColor}"
+                                   Margin="8,0,0,0"/>
+                    </StackPanel>
+
+                    <ListBox x:Name="lstOrders" 
+                             Height="350" 
+                             SelectionChanged="LstOrders_SelectionChanged"/>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                        <Button x:Name="btnRemoveSelected" 
+                                Content="🗑 Удалить выбранную" 
+                                Width="140" Height="32" FontSize="12"
+                                Style="{StaticResource DangerButtonStyle}"
+                                Click="BtnRemoveSelected_Click"/>
+                        <Button x:Name="btnClearAll" 
+                                Content="🗑 Очистить всё" 
+                                Width="120" Height="32" FontSize="12"
+                                Style="{StaticResource DangerButtonStyle}"
+                                Click="BtnClearAll_Click"/>
+                    </StackPanel>
+
+                    <Border Background="#E6F5F5F5" 
+                            CornerRadius="4" 
+                            Padding="8" 
+                            Margin="0,10,0,0">
+                        <TextBlock x:Name="lblSelectedInfo" 
+                                   Text="Выберите дверь для просмотра деталей" 
+                                   FontSize="11"
+                                   Foreground="{StaticResource TextSecondaryColor}"
+                                   TextWrapping="Wrap"/>
+                    </Border>
+                </StackPanel>
+            </Border>
+
+            <Border Grid.Column="2" Style="{StaticResource ResultCardStyle}">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" 
+                              HorizontalScrollBarVisibility="Disabled"
+                              Background="Transparent"
+                              BorderThickness="0">
+
+                    <StackPanel>
+
+                        <TextBlock Text="📊 ИТОГИ ПО ПАРТИИ" 
+                                   FontSize="16" 
+                                   FontWeight="Bold" 
+                                   Foreground="{StaticResource TextPrimaryColor}"
+                                   HorizontalAlignment="Center"
+                                   Margin="0,0,0,15"/>
+
+                        <Grid Margin="0,3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="Всего дверей:" FontWeight="Bold" Margin="0,3,10,3" FontSize="14"/>
+                            <TextBlock Grid.Column="1" x:Name="lblTotalCount" Text="0" 
+                                       FontSize="14" TextAlignment="Right" FontWeight="Bold"
+                                       Foreground="{StaticResource PrimaryColor}"/>
+                        </Grid>
+
+                        <Grid Margin="0,3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="Базовая стоимость:" FontWeight="Bold" Margin="0,3,10,3" FontSize="14"/>
+                            <TextBlock Grid.Column="1" x:Name="lblTotalBasePrice" Text="0 ₽" 
+                                       FontSize="14" TextAlignment="Right" Foreground="{StaticResource TextSecondaryColor}"/>
+                        </Grid>
+
+                        <Grid Margin="0,3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="Наценка за размер:" FontWeight="Bold" Margin="0,3,10,3" FontSize="14"/>
+                            <TextBlock Grid.Column="1" x:Name="lblTotalSizeSurcharge" Text="0 ₽" 
+                                       FontSize="14" TextAlignment="Right" Foreground="#E65100"/>
+                        </Grid>
+
+                        <Grid Margin="0,3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="Цена с наценкой:" FontWeight="Bold" Margin="0,3,10,3" FontSize="14"/>
+                            <TextBlock Grid.Column="1" x:Name="lblTotalWithSize" Text="0 ₽" 
+                                       FontSize="14" TextAlignment="Right" Foreground="{StaticResource TextSecondaryColor}"/>
+                        </Grid>
+
+                        <Grid Margin="0,3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="Общая скидка:" FontWeight="Bold" Margin="0,3,10,3" FontSize="14"/>
+                            <TextBlock Grid.Column="1" x:Name="lblTotalDiscount" Text="0 ₽" 
+                                       FontSize="14" TextAlignment="Right" Foreground="{StaticResource ErrorColor}"/>
+                        </Grid>
+
+                        <Separator Margin="0,10" Background="{StaticResource GoldColor}" Opacity="0.4"/>
+
+                        <Border CornerRadius="8" 
+                                Padding="12" 
+                                Margin="0,5,0,0"
+                                Background="{StaticResource PriceGradient}">
+                            <StackPanel>
+                                <TextBlock x:Name="lblTotalFinalPrice" 
+                                           Text="ИТОГО: 0 ₽" 
+                                           FontSize="20" 
+                                           FontWeight="Bold"
+                                           Foreground="{StaticResource TextWhiteColor}"
+                                           HorizontalAlignment="Center"/>
+                                <TextBlock x:Name="lblAveragePrice" 
+                                           Text=""
+                                           FontSize="13"
+                                           Foreground="#FFD4B96A"
+                                           HorizontalAlignment="Center"
+                                           Margin="0,2,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="#E6F5F5F5" 
+                                CornerRadius="4" 
+                                Padding="10" 
+                                Margin="0,10,0,0">
+                            <StackPanel>
+                                <TextBlock Text="📌 ДЕТАЛЬНЫЙ ОТЧЁТ" 
+                                           FontSize="12" 
+                                           FontWeight="Bold" 
+                                           Foreground="{StaticResource TextPrimaryColor}"/>
+                                <TextBlock x:Name="lblDetailedReport" 
+                                           Text="Добавьте двери для формирования отчёта" 
+                                           FontSize="11"
+                                           Foreground="{StaticResource TextSecondaryColor}"
+                                           TextWrapping="Wrap"
+                                           Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="#E6E8F5FE" 
+                                CornerRadius="4" 
+                                Padding="10" 
+                                Margin="0,8,0,0">
+                            <StackPanel>
+                                <TextBlock Text="🔄 ДЕМОНСТРАЦИЯ ЦИКЛОВ" 
+                                           FontSize="12" 
+                                           FontWeight="Bold" 
+                                           Foreground="{StaticResource PrimaryColor}"/>
+                                <TextBlock x:Name="lblLoopDemo" 
+                                           Text="Добавьте двери с помощью кнопок 'for' или 'while'" 
+                                           FontSize="11"
+                                           Foreground="{StaticResource TextSecondaryColor}"
+                                           TextWrapping="Wrap"
+                                           Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+                </ScrollViewer>
+            </Border>
+        </Grid>
+
+        <StatusBar Grid.Row="2" Margin="0,10,0,0" Background="Transparent">
+            <StatusBarItem>
+                <TextBlock x:Name="lblStatus" 
+                           Text="Готов к расчёту. Выберите способ добавления дверей." 
+                           FontSize="12"
+                           Foreground="{StaticResource TextSecondaryColor}"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

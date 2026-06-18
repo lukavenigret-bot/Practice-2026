@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="background.jpg.jpg" />
     <None Remove="Images\background.jpg.jpg" />
     <None Remove="Снимок экрана 2026-06-16 185350.png" />
   </ItemGroup>
@@ -21,8 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="background.jpg.jpg" />
-    <Resource Include="Снимок экрана 2026-06-16 185350.png" />
+    <Resource Include="Images\Снимок экрана 2026-06-16 185350.png" />
   </ItemGroup>
 
 </Project>
