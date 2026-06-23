@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\",
+  "WorkspaceRootPath": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\source\\repos\\doorloop\\doorloop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorloop\\doorloop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|solutionrelative:doorloop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\source\\repos\\doorloop\\doorloop\\models\\doororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|solutionrelative:doorloop\\models\\doororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\source\\repos\\doorloop\\doorloop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorloop\\doorloop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|solutionrelative:doorloop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\source\\repos\\doorloop\\doorloop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorloop\\doorloop\\models\\doororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|solutionrelative:doorloop\\models\\doororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorloop\\doorloop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{033B4038-A3CE-4997-9030-A96683B79020}|DoorLoop\\DoorLoop.csproj|solutionrelative:doorloop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DoorLoop\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\MainWindow.xaml",
               "RelativeToolTip": "DoorLoop\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-18T09:44:01.134Z",
@@ -42,36 +42,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DoorLoop\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\MainWindow.xaml.cs",
               "RelativeToolTip": "DoorLoop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANAAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T09:43:56.735Z"
+              "WhenOpened": "2026-06-18T09:43:56.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DoorOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\Models\\DoorOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\Models\\DoorOrder.cs",
               "RelativeDocumentMoniker": "DoorLoop\\Models\\DoorOrder.cs",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\Models\\DoorOrder.cs",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\Models\\DoorOrder.cs",
               "RelativeToolTip": "DoorLoop\\Models\\DoorOrder.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA8wC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T09:47:11.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T09:47:11.819Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\App.xaml",
               "RelativeDocumentMoniker": "DoorLoop\\App.xaml",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorLoop\\DoorLoop\\App.xaml",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorLoop\\DoorLoop\\App.xaml",
               "RelativeToolTip": "DoorLoop\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-18T09:44:58.099Z",

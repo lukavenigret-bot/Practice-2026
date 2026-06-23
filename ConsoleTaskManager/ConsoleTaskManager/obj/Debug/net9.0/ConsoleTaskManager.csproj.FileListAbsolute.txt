@@ -1,0 +1,14 @@
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net9.0\ConsoleTaskManager.exe
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net9.0\ConsoleTaskManager.deps.json
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net9.0\ConsoleTaskManager.runtimeconfig.json
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net9.0\ConsoleTaskManager.dll
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\bin\Debug\net9.0\ConsoleTaskManager.pdb
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.AssemblyInfoInputs.cache
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.AssemblyInfo.cs
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.dll
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\refint\ConsoleTaskManager.dll
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.pdb
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ConsoleTaskManager.genruntimeconfig.cache
+C:\Users\Yulya\source\repos\ConsoleTaskManager\ConsoleTaskManager\obj\Debug\net9.0\ref\ConsoleTaskManager.dll

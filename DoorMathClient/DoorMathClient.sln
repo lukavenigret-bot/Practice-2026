@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorMathClient", "DoorMathClient\DoorMathClient.csproj", "{043208EF-7AAD-4349-A31A-670A842490D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorMathLibrary", "..\DoorMathLibrary\DoorMathLibrary\DoorMathLibrary.csproj", "{FD216F69-3762-C4C6-EEFF-B9478B4E13B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043208EF-7AAD-4349-A31A-670A842490D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043208EF-7AAD-4349-A31A-670A842490D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043208EF-7AAD-4349-A31A-670A842490D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043208EF-7AAD-4349-A31A-670A842490D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD216F69-3762-C4C6-EEFF-B9478B4E13B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD216F69-3762-C4C6-EEFF-B9478B4E13B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD216F69-3762-C4C6-EEFF-B9478B4E13B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD216F69-3762-C4C6-EEFF-B9478B4E13B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029632FE-740B-427C-80F0-3F9841748582}
+	EndGlobalSection
+EndGlobal

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\services\\doordatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\services\\doordatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\services\\doorcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\services\\doorcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\models\\doorparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\models\\doorparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\services\\doordatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\services\\doordatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|solutionrelative:stoimostdveri\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3462626-8795-47B2-8B94-5CB9972B9AB5}|StoimostDveri\\StoimostDveri.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\stoimostdveri\\stoimostdveri\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -48,35 +48,32 @@
               "RelativeDocumentMoniker": "StoimostDveri\\Helpers\\StringHelper.cs",
               "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\Helpers\\StringHelper.cs",
               "RelativeToolTip": "StoimostDveri\\Helpers\\StringHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T11:24:43.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T11:24:43.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\MainWindow.xaml",
               "RelativeDocumentMoniker": "StoimostDveri\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\MainWindow.xaml*",
-              "RelativeToolTip": "StoimostDveri\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\MainWindow.xaml",
+              "RelativeToolTip": "StoimostDveri\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T14:42:19.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T14:42:19.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "StoimostDveri\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\MainWindow.xaml.cs",
               "RelativeToolTip": "StoimostDveri\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAA/wHsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T14:42:18.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T14:42:18.55Z"
             },
             {
               "$type": "Document",
@@ -86,27 +83,26 @@
               "RelativeDocumentMoniker": "StoimostDveri\\Services\\DoorDataFactory.cs",
               "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\Services\\DoorDataFactory.cs",
               "RelativeToolTip": "StoimostDveri\\Services\\DoorDataFactory.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowBUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T11:22:50.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T11:22:50.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DoorCalculator.cs",
               "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\Services\\DoorCalculator.cs",
               "RelativeDocumentMoniker": "StoimostDveri\\Services\\DoorCalculator.cs",
               "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\Services\\DoorCalculator.cs",
               "RelativeToolTip": "StoimostDveri\\Services\\DoorCalculator.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-18T11:20:57.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DoorParameters.cs",
               "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\Models\\DoorParameters.cs",
               "RelativeDocumentMoniker": "StoimostDveri\\Models\\DoorParameters.cs",
@@ -126,8 +122,7 @@
               "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\StoimostDveri\\StoimostDveri\\App.xaml",
               "RelativeToolTip": "StoimostDveri\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T15:06:15.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T15:06:15.287Z"
             }
           ]
         }

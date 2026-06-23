@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoorBranching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e3afc5a898fdb720a3adff983c6e73e19241cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoorBranching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoorBranching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

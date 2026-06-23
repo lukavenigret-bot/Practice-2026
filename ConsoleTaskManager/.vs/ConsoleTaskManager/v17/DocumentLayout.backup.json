@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulya\\source\\repos\\ConsoleTaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661D2582-4FA5-47C5-A5CD-9B7D1B0EE229}|ConsoleTaskManager\\ConsoleTaskManager.csproj|c:\\users\\yulya\\source\\repos\\consoletaskmanager\\consoletaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661D2582-4FA5-47C5-A5CD-9B7D1B0EE229}|ConsoleTaskManager\\ConsoleTaskManager.csproj|solutionrelative:consoletaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\ConsoleTaskManager\\ConsoleTaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleTaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\ConsoleTaskManager\\ConsoleTaskManager\\Program.cs*",
+              "RelativeToolTip": "ConsoleTaskManager\\Program.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwGsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:15:39.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

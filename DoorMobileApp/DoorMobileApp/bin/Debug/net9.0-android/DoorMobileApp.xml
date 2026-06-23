@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DoorMobileApp</name>
+    </assembly>
+    <members>
+        <member name="T:DoorMobileApp.MainPage">
+            <summary>
+            Главная страница приложения
+            </summary>
+        </member>
+        <member name="T:DoorMobileApp.Models.CalculationResult">
+            <summary>
+            Результат расчёта
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.CalculationResult.Area">
+            <summary>Площадь (кв.м)</summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.CalculationResult.ExtraArea">
+            <summary>Дополнительная площадь (кв.м)</summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.CalculationResult.SizeSurcharge">
+            <summary>Надбавка (руб.)</summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.CalculationResult.FinalPrice">
+            <summary>Итоговая цена (руб.)</summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.CalculationResult.IsValid">
+            <summary>Флаг успешности расчёта</summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.CalculationResult.ErrorMessage">
+            <summary>Сообщение об ошибке</summary>
+        </member>
+        <member name="M:DoorMobileApp.Models.CalculationResult.GetPriceDisplay">
+            <summary>
+            Форматированная цена
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Models.CalculationResult.GetAreaDisplay">
+            <summary>
+            Форматированная площадь
+            </summary>
+        </member>
+        <member name="T:DoorMobileApp.Models.DoorParameters">
+            <summary>
+            Модель параметров двери
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.DoorParameters.ModelName">
+            <summary>
+            Название модели
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.DoorParameters.BasePrice">
+            <summary>
+            Базовая цена (руб.)
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.DoorParameters.WidthMm">
+            <summary>
+            Ширина (мм)
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.DoorParameters.HeightMm">
+            <summary>
+            Высота (мм)
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.DoorParameters.FinishName">
+            <summary>
+            Название отделки
+            </summary>
+        </member>
+        <member name="P:DoorMobileApp.Models.DoorParameters.FinishCoeff">
+            <summary>
+            Коэффициент отделки
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Models.DoorParameters.GetAreaM2">
+            <summary>
+            Расчёт площади (кв.м)
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Models.DoorParameters.GetSizeDescription">
+            <summary>
+            Описание размеров
+            </summary>
+        </member>
+        <member name="T:DoorMobileApp.Services.DoorCalculator">
+            <summary>
+            Калькулятор стоимости двери
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Services.DoorCalculator.Calculate(DoorMobileApp.Models.DoorParameters)">
+            <summary>
+            Расчёт стоимости двери
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Services.DoorCalculator.ValidateParameters(DoorMobileApp.Models.DoorParameters,System.String@)">
+            <summary>
+            Проверка параметров
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Services.DoorCalculator.GetBasePrice(System.String)">
+            <summary>
+            Получение базовой цены по названию модели
+            </summary>
+        </member>
+        <member name="M:DoorMobileApp.Services.DoorCalculator.GetFinishCoeff(System.String)">
+            <summary>
+            Получение коэффициента отделки
+            </summary>
+        </member>
+        <member name="T:DoorMobileApp.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>

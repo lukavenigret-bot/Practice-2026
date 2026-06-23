@@ -1,0 +1,11 @@
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\bin\Debug\net9.0\DoorMathLibrary.deps.json
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\bin\Debug\net9.0\DoorMathLibrary.dll
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\bin\Debug\net9.0\DoorMathLibrary.pdb
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\DoorMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\DoorMathLibrary.AssemblyInfoInputs.cache
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\DoorMathLibrary.AssemblyInfo.cs
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\DoorMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\DoorMathLibrary.dll
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\refint\DoorMathLibrary.dll
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\DoorMathLibrary.pdb
+C:\Users\Yulya\source\repos\DoorMathLibrary\DoorMathLibrary\obj\Debug\net9.0\ref\DoorMathLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\bin\Debug\net9.0\LowLevelDemo.exe
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\bin\Debug\net9.0\LowLevelDemo.deps.json
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\bin\Debug\net9.0\LowLevelDemo.runtimeconfig.json
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\bin\Debug\net9.0\LowLevelDemo.dll
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\bin\Debug\net9.0\LowLevelDemo.pdb
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.AssemblyInfoInputs.cache
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.AssemblyInfo.cs
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.dll
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\refint\LowLevelDemo.dll
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.pdb
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\LowLevelDemo.genruntimeconfig.cache
+C:\Users\Yulya\source\repos\LowLevelDemo\LowLevelDemo\obj\Debug\net9.0\ref\LowLevelDemo.dll

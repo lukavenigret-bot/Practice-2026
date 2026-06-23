@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FileSystemUtility/1.0.0": {
+        "runtime": {
+          "FileSystemUtility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileSystemUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

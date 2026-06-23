@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\DoorBranching.csproj",
+      "projectUniqueName": "C:\\Users\\Yulya\\OneDrive\\Рабочий стол\\Ветеркова практическая\\DoorBranching\\DoorBranching\\DoorBranching.csproj",
       "projectName": "DoorBranching",
-      "projectPath": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\DoorBranching.csproj",
+      "projectPath": "C:\\Users\\Yulya\\OneDrive\\Рабочий стол\\Ветеркова практическая\\DoorBranching\\DoorBranching\\DoorBranching.csproj",
       "packagesPath": "C:\\Users\\Yulya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\obj\\",
+      "outputPath": "C:\\Users\\Yulya\\OneDrive\\Рабочий стол\\Ветеркова практическая\\DoorBranching\\DoorBranching\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yulya\\source\\repos\\DoorDebug\\",
+  "WorkspaceRootPath": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorDebug\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|c:\\users\\yulya\\source\\repos\\doordebug\\doordebug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|solutionrelative:doordebug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doordebug\\doordebug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|solutionrelative:doordebug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|c:\\users\\yulya\\source\\repos\\doordebug\\doordebug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|solutionrelative:doordebug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doordebug\\doordebug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E97FE4-39FC-4444-B5AB-9AEF5763A597}|DoorDebug\\DoorDebug.csproj|solutionrelative:doordebug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,23 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorDebug\\DoorDebug\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorDebug\\DoorDebug\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DoorDebug\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorDebug\\DoorDebug\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorDebug\\DoorDebug\\MainWindow.xaml.cs",
               "RelativeToolTip": "DoorDebug\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T12:22:11.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T12:22:11.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorDebug\\DoorDebug\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorDebug\\DoorDebug\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DoorDebug\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorDebug\\DoorDebug\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorDebug\\DoorDebug\\MainWindow.xaml",
               "RelativeToolTip": "DoorDebug\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-18T12:22:14.672Z",

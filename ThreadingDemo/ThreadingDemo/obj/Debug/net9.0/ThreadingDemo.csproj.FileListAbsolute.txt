@@ -1,0 +1,14 @@
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.exe
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.deps.json
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.runtimeconfig.json
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.dll
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.pdb
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.AssemblyInfo.cs
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.dll
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\refint\ThreadingDemo.dll
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.pdb
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.genruntimeconfig.cache
+C:\Users\Yulya\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ref\ThreadingDemo.dll

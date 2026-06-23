@@ -21,3 +21,27 @@ C:\Users\Yulya\source\repos\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.
 C:\Users\Yulya\source\repos\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\ref\DoorLoop.dll
 C:\Users\Yulya\source\repos\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\Images\background.jpg.jpg
 C:\Users\Yulya\source\repos\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop_Content.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\DoorLoop.exe
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\Images\background.jpg.jpg
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\DoorLoop.deps.json
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\DoorLoop.runtimeconfig.json
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\DoorLoop.dll
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\bin\Debug\net9.0-windows\DoorLoop.pdb
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop_Content.g.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop_MarkupCompile.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop_MarkupCompile.lref
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\App.baml
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.g.resources
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.AssemblyInfoInputs.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.AssemblyInfo.cs
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.sourcelink.json
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.dll
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\refint\DoorLoop.dll
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.pdb
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\DoorLoop.genruntimeconfig.cache
+C:\Users\Yulya\OneDrive\Рабочий стол\Ветеркова практическая\DoorLoop\DoorLoop\obj\Debug\net9.0-windows\ref\DoorLoop.dll

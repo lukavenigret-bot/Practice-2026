@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulya\\source\\repos\\DoorMathClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043208EF-7AAD-4349-A31A-670A842490D2}|DoorMathClient\\DoorMathClient.csproj|c:\\users\\yulya\\source\\repos\\doormathclient\\doormathclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043208EF-7AAD-4349-A31A-670A842490D2}|DoorMathClient\\DoorMathClient.csproj|solutionrelative:doormathclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD216F69-3762-C4C6-EEFF-B9478B4E13B8}|..\\DoorMathLibrary\\DoorMathLibrary\\DoorMathLibrary.csproj|c:\\users\\yulya\\source\\repos\\doormathlibrary\\doormathlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorMathLibrary\\DoorMathLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DoorMathLibrary\\DoorMathLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorMathLibrary\\DoorMathLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\DoorMathLibrary\\DoorMathLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:39:12.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorMathClient\\DoorMathClient\\Program.cs",
+              "RelativeDocumentMoniker": "DoorMathClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorMathClient\\DoorMathClient\\Program.cs",
+              "RelativeToolTip": "DoorMathClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:29:58.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

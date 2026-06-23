@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\",
+  "WorkspaceRootPath": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|c:\\users\\yulya\\source\\repos\\doorbranching\\doorbranching\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorbranching\\doorbranching\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|solutionrelative:doorbranching\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|c:\\users\\yulya\\source\\repos\\doorbranching\\doorbranching\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorbranching\\doorbranching\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|solutionrelative:doorbranching\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|c:\\users\\yulya\\source\\repos\\doorbranching\\doorbranching\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|c:\\users\\yulya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0432\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\doorbranching\\doorbranching\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2CC4D1B3-509D-4EDB-953E-F9B16092004E}|DoorBranching\\DoorBranching.csproj|solutionrelative:doorbranching\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\DoorBranching\\App.xaml",
               "RelativeDocumentMoniker": "DoorBranching\\App.xaml",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\App.xaml",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\DoorBranching\\App.xaml",
               "RelativeToolTip": "DoorBranching\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-16T17:27:35.62Z",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\DoorBranching\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DoorBranching\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\DoorBranching\\MainWindow.xaml",
               "RelativeToolTip": "DoorBranching\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-16T17:26:31.764Z",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\DoorBranching\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DoorBranching\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\DoorBranching\\DoorBranching\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DoorBranching\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAADwv94AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Yulya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0435\u0442\u0435\u0440\u043A\u043E\u0432\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\DoorBranching\\DoorBranching\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "DoorBranching\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAowN4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T17:26:29.598Z",
               "EditorCaption": ""

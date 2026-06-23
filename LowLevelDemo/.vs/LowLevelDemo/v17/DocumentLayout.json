@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulya\\source\\repos\\LowLevelDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA7164-00DE-4DBB-824C-2F2275DBDC49}|LowLevelDemo\\LowLevelDemo.csproj|c:\\users\\yulya\\source\\repos\\lowleveldemo\\lowleveldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AA7164-00DE-4DBB-824C-2F2275DBDC49}|LowLevelDemo\\LowLevelDemo.csproj|solutionrelative:lowleveldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AA7164-00DE-4DBB-824C-2F2275DBDC49}|LowLevelDemo\\LowLevelDemo.csproj|c:\\users\\yulya\\source\\repos\\lowleveldemo\\lowleveldemo\\lowleveldemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67AA7164-00DE-4DBB-824C-2F2275DBDC49}|LowLevelDemo\\LowLevelDemo.csproj|solutionrelative:lowleveldemo\\lowleveldemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LowLevelDemo",
+              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\LowLevelDemo\\LowLevelDemo\\LowLevelDemo.csproj",
+              "RelativeDocumentMoniker": "LowLevelDemo\\LowLevelDemo.csproj",
+              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\LowLevelDemo\\LowLevelDemo\\LowLevelDemo.csproj",
+              "RelativeToolTip": "LowLevelDemo\\LowLevelDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T13:47:04.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yulya\\source\\repos\\LowLevelDemo\\LowLevelDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LowLevelDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Yulya\\source\\repos\\LowLevelDemo\\LowLevelDemo\\Program.cs",
+              "RelativeToolTip": "LowLevelDemo\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:46:57.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

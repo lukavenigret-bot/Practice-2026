@@ -1,0 +1,14 @@
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\bin\Debug\net9.0\FileSystemUtility.exe
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\bin\Debug\net9.0\FileSystemUtility.deps.json
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\bin\Debug\net9.0\FileSystemUtility.runtimeconfig.json
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\bin\Debug\net9.0\FileSystemUtility.dll
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\bin\Debug\net9.0\FileSystemUtility.pdb
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.AssemblyInfoInputs.cache
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.AssemblyInfo.cs
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.dll
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\refint\FileSystemUtility.dll
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.pdb
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\FileSystemUtility.genruntimeconfig.cache
+C:\Users\Yulya\source\repos\FileSystemUtility\FileSystemUtility\obj\Debug\net9.0\ref\FileSystemUtility.dll
